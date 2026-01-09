@@ -51,3 +51,18 @@ Common tasks:
     * fraud patterns
     * faulty sesors in IoT
  
+* Semi supervised Learning.
+    You have a small labeled dataset and big unlabeled dataset. 
+    - 2000 labeled images and 200 000 unlabeled images
+
+* Self supervised Learning(huge in modern AI)
+    The model creates its own learning tasks from raw data.
+    - example would be a hide word and predict it.
+
+
+* Reinforcment Learning (LR)
+    Learning by trial and error
+    - robotic
+    - game AI
+    - dynamic pricing
+    -some trading research
